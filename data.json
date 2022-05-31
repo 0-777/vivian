@@ -1,1 +1,14 @@
-
+{
+  "ModuleDownload": "https://cdn.discordapp.com/attachments/753114724215947267/980125586162843658/exploit-main.dll",
+  "InjectorDownload": "null",
+  "InjectorHash": "null",
+  "LauncherDownload": "null",
+  "LauncherHash": "null",
+  "CefSharpDownload": "null",
+  "MonacoDownload": "null",
+  "DiscordInvite": "null",
+  "GlobalChatpath": "null",
+  "Version": "2",
+  "InterfaceVersion": "2",
+  "IsUpdated": true
+}
