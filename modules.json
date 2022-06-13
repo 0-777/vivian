@@ -1,5 +1,20 @@
-{"array": [
-    {"wrd": "https://cdn.discordapp.com/attachments/753114724215947267/980125586162843658/exploit-main.dll" }, 
-    {"krnl": "https://cdn.discordapp.com/attachments/753114724215947267/980125586162843658/exploit-main.dll" },
-    {"oxygen": "https://cdn.discordapp.com/attachments/753114724215947267/980125586162843658/exploit-main.dll" }
-]}
+{
+    "modules" :
+    [
+        {
+            "pipe_name" : "OxygenU",
+            "module_name" : "OxygenU.dll",
+            "module_download" : "https://github.com/iDevastate/Oxygen-v2/blob/main/OxygenBytecode.vmp.dll?raw=true"
+        },        
+        {
+            "pipe_name" : "Krnl",
+            "module_name" : "Krnl.dll",
+            "module_download" : "https://k-storage.com/bootstrapper/files/krnl.dll"
+        },
+        {
+            "pipe_name" : "WeAreDevs",
+            "module_name" : "WeAreDevs.dll",
+            "module_download" : "https://cdn.discordapp.com/attachments/753114724215947267/980125586162843658/exploit-main.dll"
+        }
+    ]
+}
